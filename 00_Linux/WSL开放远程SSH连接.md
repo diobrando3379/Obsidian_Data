@@ -77,7 +77,7 @@ netsh interface portproxy reset
 
 ### **3. 设置WSL网络模式**
 
-![image-20250312122602855](https://typora-dio3379.oss-cn-hangzhou.aliyuncs.com/image-20250312122602855.png)
+![[image-20250312122602855.png]]
 
 ### **4. 获取Windows主机的IP地址**
 
