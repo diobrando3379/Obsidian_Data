@@ -1,0 +1,9 @@
+{
+  "promptDelete": true,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "trashOption": "system",
+  "attachmentFolderPath": "Attachment",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01_AI"
+}
