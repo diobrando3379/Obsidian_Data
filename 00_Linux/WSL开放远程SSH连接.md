@@ -64,6 +64,10 @@ netsh interface portproxy reset
   ```
   
   将id_rsa.pub的内容复制到**authorized_keys**中
+  
+  ```
+  cat id_rsa.pub >> ~/.ssh/authorized_keys
+  ```
 
 ------
 
